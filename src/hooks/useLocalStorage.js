@@ -6,4 +6,3 @@ export const useLocalStorage = () => {
   // дані з localStorage, якщо дані були збережені. Якщо в localStorage не були
   // збережені дані з ключем key, то хук повинен повертати defaultValue.
 };
-console.log(typeof {});
